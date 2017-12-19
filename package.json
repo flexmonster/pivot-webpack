@@ -1,0 +1,20 @@
+{
+  "name": "webpack-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx webpack --config webpack.config.js && node server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^3.10.0",
+    "exports-loader": "^0.6.4",
+    "copy-webpack-plugin": "^4.3.0"
+  },
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
