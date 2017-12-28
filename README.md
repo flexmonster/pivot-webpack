@@ -14,7 +14,7 @@ by running `node -v` and `npm -v` in a terminal/console window.
 
 ## Step 1: Create a new project based on this sample
 
-Download `.zip` archive with the sample or this repo into new project folder (e.g., `my-proj`).
+Download `.zip` archive with the sample or clone this repo into new project folder (e.g., `my-proj`).
 ```bash
 git clone https://github.com/flexmonster/pivot-webpack  my-proj
 cd my-proj
@@ -31,7 +31,7 @@ npm install -g npx
 
 ## Step 3: Copy Flexmonster files
 
-Copy `flexmonster/` folder into your `node_modules/` folder. You can find `flexmonster/` inside of the package you have downloaded from the site.
+Copy `flexmonster/` folder into your `node_modules/` folder. You can find `flexmonster/` inside of the package you have downloaded from www.flexmonster.com.
 
 ## Step 4: Run sample project
 
