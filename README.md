@@ -26,14 +26,9 @@ Install the npm packages described in the `package.json` and npx:
 
 ```bash
 npm install
-npm install -g npx
 ```
 
-## Step 3: Copy Flexmonster files
-
-Copy `flexmonster/` folder into your `node_modules/` folder. You can find `flexmonster/` inside of the package you have downloaded from www.flexmonster.com.
-
-## Step 4: Run sample project
+## Step 3: Start the project
 
 Run in the console:
 

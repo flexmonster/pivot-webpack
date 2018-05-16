@@ -1,9 +1,12 @@
-function init() {
-  var pivot = new Flexmonster({
-  	container: "pivot-container",
-  	licenseKey: "Z770-XAH021-2F5R2C-254V4E",
-  	toolbar: true
-  });
-}
+// ES2015 
+import 'flexmonster/flexmonster.min.css';
+import Flexmonster from 'flexmonster';
 
-init();
+// CommonJS 
+// require('flexmonster/flexmonster.min.css');
+// const Flexmonster = require('flexmonster');
+
+new Flexmonster({
+    container: "#pivot",
+    // licenseKey: "XXXX-XXXX-XXXX-XXXX"
+})
