@@ -8,5 +8,5 @@ import Flexmonster from 'flexmonster';
 
 new Flexmonster({
     container: "#pivot",
-    // licenseKey: "XXXX-XXXX-XXXX-XXXX"
+    licenseKey: "XXXX-XXXX-XXXX-XXXX"
 })
