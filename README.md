@@ -29,7 +29,7 @@ npm install
 ```
 
 ## Step 3: Start the project
-Open `index.js` and replace `XXXX-XXXX-XXXX-XXXX-XXXX` with an actual license key. If yu don’t have a license key, [get it here](https://www.flexmonster.com/download-page/).
+Open `index.js` and replace `XXXX-XXXX-XXXX-XXXX-XXXX` with an actual license key. If you don’t have a license key, [get it here](https://www.flexmonster.com/download-page/).
 
 Run in the console:
 
