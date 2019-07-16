@@ -1,8 +1,8 @@
-# Flexmonster Pivot table component integration with webpack
-[![Flexmonster Pivot table component](https://s3.amazonaws.com/flexmonster/github/fm-github-cover.png)](http://flexmonster.com)
+# Flexmonster Pivot Table & Charts integration with webpack
+[![Flexmonster Pivot Table & Charts](https://s3.amazonaws.com/flexmonster/github/fm-github-cover.png)](http://flexmonster.com)
 Website: www.flexmonster.com
 
-This repository holds the source code for simple [webpack](https://webpack.js.org/) and Flexmonster Pivot table component project. 
+This repository holds the source code for simple [webpack](https://webpack.js.org/) and Flexmonster Pivot Table & Charts project. 
 
 ## Prerequisites
 
