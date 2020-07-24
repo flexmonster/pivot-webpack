@@ -1,6 +1,9 @@
 # Flexmonster Pivot Table & Charts integration with webpack
-[![Flexmonster Pivot Table & Charts](https://s3.amazonaws.com/flexmonster/github/fm-github-cover.png)](http://flexmonster.com)
+[![Flexmonster Pivot Table & Charts](https://www.flexmonster.com/fm_uploads/2020/06/GitHub_fm.png](http://flexmonster.com)
 Website: www.flexmonster.com
+
+## Flexmonster Pivot Table & Charts
+Flexmonster Pivot is a powerful Javascript tool for interactive web reporting. It allows you to visualize and analyze data from JSON, CSV, SQL, NoSQL, Elasticsearch, and OLAP data sources fast and conveniently. Flexmonster is designed to integrate seamlessly with any client-side framework and can be easily embedded into your application.
 
 This repository holds the source code for simple [webpack](https://webpack.js.org/) and Flexmonster Pivot Table & Charts project. 
 
