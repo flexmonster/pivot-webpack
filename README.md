@@ -1,5 +1,5 @@
 # Flexmonster Pivot Table & Charts integration with webpack
-[![Flexmonster Pivot Table & Charts](https://www.flexmonster.com/fm_uploads/2020/06/GitHub_fm.png](http://flexmonster.com)
+[![Flexmonster Pivot Table & Charts](https://www.flexmonster.com/fm_uploads/2020/06/GitHub_fm.png)](http://flexmonster.com)
 Website: www.flexmonster.com
 
 ## Flexmonster Pivot Table & Charts
