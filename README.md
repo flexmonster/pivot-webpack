@@ -33,9 +33,7 @@ cd my-proj
 npm install
 ```
 
-3. Open `index.js` and replace `XXXX-XXXX-XXXX-XXXX-XXXX` with an actual license key. If you don’t have a license key, [get it here](https://www.flexmonster.com/download-page/).
-
-4. Run in the console:
+3. Run the project from the console:
 
 ```bash
 npm start
