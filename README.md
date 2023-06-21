@@ -1,6 +1,6 @@
 # Flexmonster Pivot Table & Charts integration with webpack
-[![Flexmonster Pivot Table & Charts](https://cdn.flexmonster.com/landing.png)](http://flexmonster.com)
-Website: www.flexmonster.com
+[![Flexmonster Pivot Table & Charts](https://cdn.flexmonster.com/landing.png)](https://www.flexmonster.com?r=github)
+Website: [www.flexmonster.com](https://www.flexmonster.com?r=github)
 
 ## Flexmonster Pivot Table & Charts
 
@@ -39,4 +39,4 @@ npm start
 
 ## <a href="related-flexmonster-docs"></a>Related Flexmonster docs
 
-- [Integration with Webpack](https://www.flexmonster.com/doc/integration-with-webpack/) — learn how to integrate Flexmonster into a webpack project.
+- [Integration with Webpack](https://www.flexmonster.com/doc/integration-with-webpack?r=github) — learn how to integrate Flexmonster into a webpack project.
