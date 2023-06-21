@@ -6,42 +6,37 @@ Website: www.flexmonster.com
 
 Flexmonster Pivot is a powerful JavaScript tool for interactive web reporting. It allows you to visualize and analyze data from JSON, CSV, SQL, NoSQL, Elasticsearch, and OLAP data sources quickly and conveniently. Flexmonster is designed to integrate seamlessly with any client-side framework and can be easily embedded into your application.
 
-This repository holds the source code for a simple [webpack](https://webpack.js.org/) and Flexmonster Pivot Table & Charts project:
+This repository contains a sample [webpack](https://webpack.js.org/) project for Flexmonster Pivot Table & Charts.
+
+Table of contents:
 
 * [Prerequisites](#prerequisites)
 * [Installation](#installation)
-* [Usage](#usage)
+* [Related Flexmonster docs](#related-flexmonster-docs)
 
 ## <a href="prerequisites"></a>Prerequisites
 
-To run a simple application, you will need Node.js and npm. <a href="https://docs.npmjs.com/getting-started/installing-node" target="_blank" title="Installing Node.js and updating npm">
-Get them now</a> if they're not already installed on your machine.
- 
-**Verify that you are running at least node `v4.x.x` and npm `3.x.x`**
-by running `node -v` and `npm -v` in a terminal/console window.
+- [Node.js](https://nodejs.org/en/)
 
 ## <a href="installation"></a>Installation
 
-1. Download `.zip` archive with the sample project or clone it with the following command:
+1. Download a `.zip` archive with the sample project or clone it from GitHub with the following command:
 ```bash
-git clone https://github.com/flexmonster/pivot-webpack  my-proj
-cd my-proj
+git clone https://github.com/flexmonster/pivot-webpack && cd pivot-webpack
 ```
 
-2. Install the npm packages described in the `package.json`:
+2. Install the npm dependencies described in `package.json`:
 
 ```bash
 npm install
 ```
 
-3. Run the project from the console:
+3. Run the sample project:
 
 ```bash
 npm start
 ```
 
-To see the result, open `http://localhost:3000/` in your browser.
+## <a href="related-flexmonster-docs"></a>Related Flexmonster docs
 
-## <a href="usage"></a>Usage
-
-For details on usage, refer to the [Flexmonster integration with Webpack](https://www.flexmonster.com/doc/integration-with-webpack/) tutorial.
+- [Integration with Webpack](https://www.flexmonster.com/doc/integration-with-webpack/) — learn how to integrate Flexmonster into a webpack project.
