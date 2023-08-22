@@ -39,4 +39,4 @@ npm start
 
 ## <a href="related-flexmonster-docs"></a>Related Flexmonster docs
 
-- [Integration with Webpack](https://www.flexmonster.com/doc/integration-with-webpack?r=github) — learn how to integrate Flexmonster into a webpack project.
+- [Integration with webpack](https://www.flexmonster.com/doc/integration-with-webpack?r=github) — learn how to integrate Flexmonster into a webpack project.
