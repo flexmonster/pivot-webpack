@@ -1,4 +1,3 @@
-# Flexmonster Pivot Table & Charts integration with webpack
 # webpack pivot table | Flexmonster Pivot Table & Charts sample project with webpack
 [![Flexmonster Pivot Table & Charts](https://cdn.flexmonster.com/landing.png)](https://www.flexmonster.com?r=github)
 Website: [flexmonster.com](https://www.flexmonster.com?r=github)
