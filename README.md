@@ -1,5 +1,5 @@
 # webpack pivot table | Flexmonster Pivot Table & Charts sample project with webpack
-[![Flexmonster Pivot Table & Charts](https://cdn.flexmonster.com/landing.png)](https://www.flexmonster.com?r=sample_wbpck)
+[![Flexmonster Pivot Table & Charts](https://cdn.flexmonster.com/readmes/webpack.webp)](https://www.flexmonster.com?r=sample_wbpck)
 Website: [flexmonster.com](https://www.flexmonster.com?r=sample_wbpck)
 
 ## Flexmonster Pivot Table & Charts
