@@ -44,7 +44,7 @@ To see the result, open `http://localhost:8080/` in your browser.
 
 ## Related Flexmonster docs
 
-- [Integration with webpack](https://www.flexmonster.com/doc/integration-with-webpack?r=sample_wbpck) — learn how to integrate Flexmonster into a webpack project.
+- [Integration with module bundlers](https://www.flexmonster.com/doc/integration-with-module-bundlers?r=sample_wbpck) — learn how to integrate Flexmonster with any module bundler.
 
 ## Support and feedback
 
